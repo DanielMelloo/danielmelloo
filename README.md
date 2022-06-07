@@ -1,5 +1,5 @@
 ## Salve, Dev! Sou Daniel, Estou aqui para compartilhar conhecimento e quem sabe ajudar alguém com isso!
-<div  style="align-items: stretch" align="center">
+<div  style="flex-grow: 1: stretch" align="center">
   <a href="https://github.com/DanielMelloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelloo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelloo&layout=compact&langs_count=7&theme=dracula"/>
