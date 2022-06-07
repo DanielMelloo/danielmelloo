@@ -1,5 +1,5 @@
 ## Salve, Dev! Sou Daniel, Estou aqui para compartilhar conhecimento e quem sabe ajudar alguém com isso!
-<div  style="flex-grow: 1: stretch" align="center">
+<div style="flex-basis: auto" align="center">
   <a href="https://github.com/DanielMelloo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelloo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelloo&layout=compact&langs_count=7&theme=dracula"/>
@@ -7,8 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  
+  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/763237600772620358/763237600772620361/983600641018593320">
 </div>
   
   ##
