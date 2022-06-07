@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img href="https://www.google.com" align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/763237600772620361/983600640783679578/ezgif.com-gif-maker.gif?width=468&height=468">
+  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=moto&sxsrf=ALiCzsbAOIercLY7Bg1_BZDYb5Sr1v93xQ:1654583260224&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYh-j72pr4AhVlBdQKHZXEDOwQ_AUoAnoECAIQBA&biw=1920&bih=937&dpr=1#imgrc=JbvJr7VvD6RX3M">
 </div>
 
   ##
