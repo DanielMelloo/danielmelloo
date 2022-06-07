@@ -10,7 +10,6 @@
   <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/763237600772620361/983600640783679578/ezgif.com-gif-maker.gif?width=468&height=468">
 </div>
 
-  
   ##
  
 <div> 
