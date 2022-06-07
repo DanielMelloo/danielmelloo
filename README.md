@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://www.google.com/search?q=moto&sxsrf=ALiCzsbAOIercLY7Bg1_BZDYb5Sr1v93xQ:1654583260224&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYh-j72pr4AhVlBdQKHZXEDOwQ_AUoAnoECAIQBA&biw=1920&bih=937&dpr=1#imgrc=JbvJr7VvD6RX3M">
+  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/CG-160-Titan_MOV_-7.jpg?w=876&h=484&crop=1">
 </div>
 
   ##
