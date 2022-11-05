@@ -9,7 +9,7 @@
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Daniel-CPP" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
-  <img align="right" alt="Daniel-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/drive/u/0/my-drive">
+  <img align="right" alt="Daniel-pic" height="110" style="border-radius:50px style:;" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
 </div>
 
   ##
@@ -25,3 +25,4 @@
   ![Snake animation](https://github.com/DanielMelloo/danielmelloo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
