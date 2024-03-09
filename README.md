@@ -11,7 +11,7 @@
   <img align="center" alt="Daniel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Daniel-CPP" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Daniel-pic" height="110" style="border-radius:50px style:;" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31">
+  <img align="right" alt="Daniel-pic" height="110" style="border-radius:50px style:;" src="https://cdn.discordapp.com/attachments/763237600772620361/1216119588841062533/dmavatar.webp?ex=65ff3aa0&is=65ecc5a0&hm=d51ebc743e45227f897b2873c173cbd07fe8f7fff289b8bc0ca9ee70f401b0c4&">
 </div>
 
   ##
