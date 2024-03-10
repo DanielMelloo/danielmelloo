@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<img alt="Daniel-pic" height="170" style="border-radius:199px; max-width: 100%;" src="./dmavatar.png">
+<img alt="Daniel-pic" height="170" style="border-radius:15px;" src="./dmavatar.png">
 </div>
 <br>
 </div><br>
