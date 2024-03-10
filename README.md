@@ -12,9 +12,7 @@
 </div>
 
 <div>
-
-<img alt="Daniel-pic" height="170" style="border-radius:15px; max-width: 100%;" src="https://cdn.discordapp.
-com/attachments/763237600772620361/1216119588841062533/dmavatar.webp?ex=65ff3aa0&is=65ecc5a0&hm=d51ebc743e45227f897b2873c173cbd07fe8f7fff289b8bc0ca9ee70f401b0c4&">
+<img alt="Daniel-pic" height="170" style="border-radius:15px; max-width: 100%;" src="./dmavatar.webp">
 </div>
 <br>
 </div><br>
@@ -49,9 +47,7 @@ com/attachments/763237600772620361/1216119588841062533/dmavatar.webp?ex=65ff3aa0
 <div align="center" style="display: inline_block"><br>
   <img height="70" width="auto" alt="Daniel-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img height="70" width="auto" alt="Daniel-Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  <img height="70" width="auto" alt="Daniel-Git"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img height="70" width="auto" alt="Daniel-GitHub" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMCAwdjI0aDI0di0yNGgtMjR6bTE0LjUzNCAxOS41OWMtLjQwNi4wNzgtLjUzNC0uMTcxLS41MzQtLjM4NHYtMi4xOTVjMC0uNzQ3LS4yNjItMS4yMzMtLjU1LTEuNDgxIDEuNzgyLS4xOTggMy42NTQtLjg3NSAzLjY1NC0zLjk0NyAwLS44NzQtLjMxMS0xLjU4OC0uODI0LTIuMTQ3LjA4My0uMjAyLjM1Ny0xLjAxNi0uMDc5LTIuMTE3IDAgMC0uNjcxLS4yMTUtMi4xOTguODItLjYzOS0uMTgtMS4zMjMtLjI2Ny0yLjAwMy0uMjcxLS42OC4wMDMtMS4zNjQuMDkxLTIuMDAzLjI2OS0xLjUyOC0xLjAzNS0yLjItLjgyLTIuMi0uODItLjQzNCAxLjEwMi0uMTYgMS45MTUtLjA3NyAyLjExOC0uNTEyLjU2LS44MjQgMS4yNzMtLjgyNCAyLjE0NyAwIDMuMDY0IDEuODY3IDMuNzUxIDMuNjQ1IDMuOTU0LS4yMjkuMi0uNDM2LjU1Mi0uNTA4IDEuMDctLjQ1Ny4yMDQtMS42MTQuNTU3LTIuMzI4LS42NjYgMCAwLS40MjMtLjc2OC0xLjIyNy0uODI1IDAgMC0uNzgtLjAxLS4wNTUuNDg3IDAgMCAuNTI1LjI0Ni44ODkgMS4xNyAwIDAgLjQ2MyAxLjQyOCAyLjY4OC45NDR2MS40ODljMCAuMjExLS4xMjkuNDU5LS41MjguMzg1LTMuMTgtMS4wNTctNS40NzItNC4wNTYtNS40NzItNy41OSAwLTQuNDE5IDMuNTgyLTggOC04czggMy41ODEgOCA4YzAgMy41MzMtMi4yODkgNi41MzEtNS40NjYgNy41OXoiLz48L3N2Zz4=">
+  <img height="70" width="auto" alt="Daniel-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img  height="70" width="auto" alt="Daniel-GitHub-Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
   <!-- git hub pages -->  
 </div><br><br>
