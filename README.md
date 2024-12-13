@@ -102,7 +102,7 @@ Um jogo de dominó digital que oferece modos de jogo contra bot com diferentes n
 
  
 
-![Snake animation](https://github.com/DanielMelloo/danielmelloo/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/DanielMelloo/danielmelloo/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- 
 <a href="https://github.com/devicons/devicon/releases">
