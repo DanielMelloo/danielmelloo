@@ -1,118 +1,243 @@
+# 👋 Olá, eu sou Daniel Mello
 
-# Olá, eu sou Daniel!👋
+<div align="center">
 
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
+<img src="./dmavatar.png" height="180" style="border-radius:20px"/>
 
-<div style="max-width: 500px;">
+### Full Stack Developer • Backend • DevOps • Cloud Infrastructure
 
-## Sobre Mim 📖
-
-### Desenvolvedor e programador Full Satack apaixonado por tecnologia e inovação, com práticas em DevOps e sistemas linux, estou aqui para compartilhar conhecimento e ajudar a comunidade. Com expertise em diversas tecnologias, busco sempre aprender e crescer profissionalmente. Vamos conectar!
-<br>
-</div>
-
-<div>
-<img alt="Daniel-pic" height="170" style="border-radius:15px;" src="./dmavatar.png">
-</div>
-<br>
-</div><br>
-
-
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/DanielMelloo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelloo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelloo&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div><br>
-
-  # Master Skills
-
-<div align="center" style="display: inline_block"><br>
-  <img height="70" width="auto" alt="Daniel-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="70" width="auto" alt="Daniel-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="70" width="auto" alt="Daniel-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="70" width="auto" alt="Daniel-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img height="70" width="auto" alt="Daniel-CPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="70" width="auto" alt="Daniel-Python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="70" width="auto" alt="Daniel-NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
-  <!-- <img align="center" height="70" width="auto" alt="Daniel-Flask"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" /> -->
-  <!-- <img align="center" height="70" width="auto" alt="Daniel-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> -->
-  <!-- <img align="center" height="70" width="auto" alt="Daniel-Django"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" /> -->
-  <!-- <img align="center" height="70" width="auto" alt="Daniel-bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-           -->
-</div><br><br>
-
-  # Intermediate Skills
-
-<div align="center" style="display: inline_block"><br>
-  <img height="70" width="auto" alt="Daniel-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img height="70" width="auto" alt="Daniel-Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  <img height="70" width="auto" alt="Daniel-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img  height="70" width="auto" alt="Daniel-GitHub-Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" />
-  <!-- git hub pages -->  
-</div><br><br>
-
-## Certificados e Conquistas 🏆
+Construindo aplicações escaláveis utilizando **Python, Django, JavaScript, Linux e AWS**, sempre buscando unir desenvolvimento de software, infraestrutura e automação.
 
 <br>
 
-- **Bacharelado em Engenharia de Computação**: Atualmente cursando na UERJ, com previsão de conclusão em Outubro de 2025.
+[![GitHub](https://img.shields.io/badge/GitHub-DanielMelloo-181717?style=for-the-badge&logo=github)](https://github.com/DanielMelloo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Mello-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-melloo-/)
+[![Instagram](https://img.shields.io/badge/Instagram-engenheiro__nao__dorme-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/engenheiro_nao_dorme)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmello.nfa@gmail.com)
 
-### Cursos Online 📚
-
-- **Redes de Computadores** (Bradesco, 2021)
-
-### Habilidades Técnicas 💡
-
-- **Linguagens de Programação**: JavaScript, Python, C, C++
-
-- **Tecnologias**: HTML, CSS, Git/GitHub/GitActions, Bash, Django, Flask
-
-- **Especialização em Nginx e DevOps**: Reconhecimento do domínio em práticas modernas de desenvolvimento e operações, focando em eficiência e escalabilidade.
-
-## Projetos em Destaque ✨
-
-### [CloudHub](https://danielmelloo.github.io/CloudHub/)
-Um projeto inovador focado em servidores, programação front-end e back-end, administrando e compartilhando conhecimento sobre tecnologia. É uma comunidade dedicada à inovação e ao aprendizado prático.
-
-### [SpecMatch - PSR](https://github.com/DanielMelloo/SpecMatch)
-Uma ferramenta interativa que recomenda as melhores combinações de hardware para jogos específicos, usando um algoritmo avançado para otimizar a experiência de jogo. Ideal para jogadores que buscam a melhor configuração de PC. 
-
-### [dmtoolbox](https://github.com/DanielMelloo/dmtoolbox)
-Um pacote Python projetado para automatizar tarefas em Windows, manipulação de arquivos, gestão de dados JSON, configurações NGINX, e análise numérica. É uma ferramenta essencial para desenvolvedores e administradores de sistemas. 
-
-### [Árvore Binária com Algoritmo DSW](https://github.com/DanielMelloo/Arvore-Binaria-DSW)
-Implementação de uma árvore binária que utiliza o algoritmo DSW para balanceamento, incluindo funcionalidades como inserção e deleção de elementos. Um recurso valioso para estudantes e profissionais da ciência da computação. 
-
-### [Dominoh Game](https://github.com/DanielMelloo/Domino-game?tab=readme-ov-file)
-Um jogo de dominó digital que oferece modos de jogo contra bot com diferentes níveis de dificuldade. Os jogadores podem ajustar vários parâmetros do jogo, como quantidade de peças e pontos para vencer. 
-
-<br><br>
-
-  # Vamos Conectar! 🌐
-
-<div align="center" style="display: inline_block"> <br>
-  <a href="#"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/engenheiro_nao_dorme" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/invite/RR2uHj2CSj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:danielmello.nfa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/daniel-melloo-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
- 
+---
 
-<!-- ![Snake animation](https://github.com/DanielMelloo/danielmelloo/blob/output/github-contribution-grid-snake.svg) -->
+# 🚀 Sobre mim
 
-<!-- 
-<a href="https://github.com/devicons/devicon/releases">
-    <img alt="GitHub release (latest by semver)" src="https://img.shields.io/github/v/release/devicons/devicon?color=%2360be86&label=Latest%20release&style=for-the-badge&sort=semver">
+Sou desenvolvedor Full Stack com foco em aplicações web modernas, infraestrutura em nuvem e automação de processos.
+
+Tenho experiência no desenvolvimento de sistemas completos utilizando **Python**, **Django** e **JavaScript**, realizando desde a modelagem da aplicação até sua implantação em ambientes Linux utilizando **AWS**, **Nginx**, **Gunicorn**, **PostgreSQL**, **Redis** e pipelines de **CI/CD**.
+
+Tenho grande interesse por arquitetura de software, engenharia de sistemas, DevOps, segurança e otimização de performance.
+
+---
+
+# 💻 Tecnologias
+
+## Linguagens
+
+<p align="center">
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+
+</p>
+
+---
+
+## Backend
+
+<p align="center">
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+</p>
+
+---
+
+## Infraestrutura & DevOps
+
+<p align="center">
+
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+</p>
+
+---
+
+# 🛠️ O que eu gosto de desenvolver
+
+- Aplicações Web Full Stack
+- APIs REST
+- Arquitetura Backend
+- Infraestrutura Linux
+- Deploy Automatizado
+- Integração Contínua (CI/CD)
+- Otimização de Performance
+- SEO Técnico
+- Segurança de Aplicações
+- Automação utilizando Python e Bash
+
+---
+
+# 🌟 Projetos em Destaque
+
+## ⚔️ AFTERLIFE
+
+Plataforma completa de e-commerce desenvolvida em Django.
+
+### Recursos
+
+- Sistema de autenticação
+- Catálogo de produtos
+- Gestão administrativa
+- SEO
+- Performance
+- Deploy automatizado
+- Infraestrutura AWS
+- PostgreSQL
+- Redis
+- Gunicorn
+- Nginx
+- GitHub Actions
+
+---
+
+## ☁️ CloudHub
+
+Comunidade focada em infraestrutura, servidores Linux, programação e compartilhamento de conhecimento.
+
+🔗 https://danielmelloo.github.io/CloudHub/
+
+---
+
+## 📦 dmtoolbox
+
+Biblioteca Python criada para automatizar tarefas comuns de desenvolvimento e administração de sistemas.
+
+Entre os recursos disponíveis:
+
+- Manipulação de arquivos
+- JSON
+- Configuração de Nginx
+- Automação Windows
+- Ferramentas Numéricas
+
+🔗 https://github.com/DanielMelloo/dmtoolbox
+
+---
+
+## 🎮 SpecMatch
+
+Ferramenta que recomenda hardware ideal para jogos utilizando algoritmos de otimização.
+
+🔗 https://github.com/DanielMelloo/SpecMatch
+
+---
+
+## 🌳 Árvore Binária DSW
+
+Implementação completa do algoritmo Day-Stout-Warren para balanceamento de árvores binárias.
+
+🔗 https://github.com/DanielMelloo/Arvore-Binaria-DSW
+
+---
+
+## 🎲 Dominoh
+
+Jogo de dominó desenvolvido em HTML5, CSS e JavaScript com modos contra IA.
+
+🔗 https://github.com/DanielMelloo/Domino-game
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMelloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMelloo&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎓 Formação
+
+**Engenharia de Computação**
+
+Universidade do Estado do Rio de Janeiro (UERJ)
+
+---
+
+# 📚 Estudos
+
+Atualmente aprofundando conhecimentos em:
+
+- Arquitetura de Software
+- Sistemas Distribuídos
+- DevOps
+- AWS
+- Segurança de Aplicações
+- Performance Web
+- Engenharia de Software
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="mailto:danielmello.nfa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/devicons/devicon?color=%2360be86&style=for-the-badge">
+<a href="https://www.linkedin.com/in/daniel-melloo-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/devicons/devicon/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devicons/devicon?color=%2360be86&style=for-the-badge">
-</a> -->
+
+<a href="https://github.com/DanielMelloo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://discord.com/invite/RR2uHj2CSj">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/engenheiro_nao_dorme">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Transformando ideias em software, infraestrutura e soluções escaláveis."
+
+⭐ Se algum projeto foi útil para você, considere deixar uma estrela!
+
+</div>
 
